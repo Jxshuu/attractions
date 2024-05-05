@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "name": "Rodeo Roundup",
+      "description": "Saddle up and experience the excitement of a real rodeo! Test your skills on our mechanical bull and feel like a true cowboy.",
+      "heightRequirement": "48 inches",
+      "minimumAge": 10,
+      "duration": "2 minutes"
+    },
+    {
+      "id": "2",
+      "name": "Bucking Bronco",
+      "description": "Hold on tight as you ride our wild Bucking Bronco! Experience the thrill of a rodeo ride without leaving the park.",
+      "heightRequirement": "42 inches",
+      "minimumAge": 8,
+      "duration": "1.5 minutes"
+    },
+    {
+      "id": "3",
+      "name": "Wild West Train Ride",
+      "description": "Hop aboard our Wild West train and journey through the rugged landscapes of the Old West. Keep an eye out for bandits along the way!",
+      "heightRequirement": "None",
+      "minimumAge": 3,
+      "duration": "10 minutes"
+    },
+    {
+      "id": "4",
+      "name": "Cowboy Campfire",
+      "description": "Gather 'round the campfire and listen to tales of the Old West from our seasoned cowboys. Roast marshmallows and enjoy the warmth of the fire.",
+      "heightRequirement": "None",
+      "minimumAge": 5,
+      "duration": "30 minutes"
+    },
+    {
+      "id": "5",
+      "name": "Gold Rush Mine",
+      "description": "Explore the depths of our Gold Rush Mine and search for hidden treasures. Watch out for surprises around every corner!",
+      "heightRequirement": "None",
+      "minimumAge": 6,
+      "duration": "15 minutes"
+    },
+    {
+      "id": "6",
+      "name": "Cowboy Carousel",
+      "description": "Ride our Cowboy Carousel and choose your trusty steed for a spin! Gallop around to the sounds of classic country tunes.",
+      "heightRequirement": "None",
+      "minimumAge": 3,
+      "duration": "5 minutes"
+    },
+    {
+      "id": "7",
+      "name": "Frontier Log Flume",
+      "description": "Embark on a splash-filled journey down our Frontier Log Flume! Brave the rapids and take in scenic views of the Wild West.",
+      "heightRequirement": "48 inches",
+      "minimumAge": 10,
+      "duration": "3 minutes"
+    }
+  ]
